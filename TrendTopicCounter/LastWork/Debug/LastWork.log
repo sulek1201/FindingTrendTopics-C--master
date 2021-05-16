@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\users\hakan.yildiz1\downloads\calisankod-sonnnn\lastwork\lastwork\main.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  hashTable.cpp
+e:\users\hakan.yildiz1\downloads\calisankod-sonnnn\lastwork\lastwork\hashtable.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  BinaryTree.cpp
+  Generating Code...
+  LastWork.vcxproj -> E:\Users\hakan.yildiz1\Downloads\CalisanKod-Sonnnn\LastWork\Debug\LastWork.exe
+  LastWork.vcxproj -> E:\Users\hakan.yildiz1\Downloads\CalisanKod-Sonnnn\LastWork\Debug\LastWork.pdb (Partial PDB)
